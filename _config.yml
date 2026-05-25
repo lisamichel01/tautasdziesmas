@@ -20,7 +20,7 @@
 
 title: Lettische Volkslieder
 description: >-
-  Eine langsam wachsende Sammlung von Texten lettischer Volkslieder mit deutschen Übersetzungen
+  Eine langsam wachsende Sammlung von Texten lettischer Volkslieder mit deutschen Übersetzungen.
 baseurl: "/tautasdziesmas" # the subpath of your site, e.g. /blog
 url: "https://lisamichel01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lisamichel01
@@ -29,6 +29,7 @@ github_username: lisamichel01
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
