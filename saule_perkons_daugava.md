@@ -4,6 +4,13 @@ title: Saule, Pērkons, Daugava
 permalink: /sauleperkonsdaugava/
 ---
 
+<p class="info">
+Dieses Lied ist eines von zweien, die man als inoffizielle Hymne Lettlands bezeichnen könnte. Der Text entstammt einer Ballade von Rainis, dem “lettischen Goethe”. Es wird ein Nationalgedanke transportiert, der im Zusammenhang mit dem Streben nach staatlicher Souveränität zu sehen ist, die 1918 erstmals erlangt wurde. Zu weitreichender Bekanntheit und Beliebtheit gelangte es deshalb während der Singenden Revolution, die das Ende der Sowjetbesatzung im Baltikum einleitete, zu deren Zeit die offizielle Nationalhymne verboten war.
+</p>  
+<p class="info">
+Der Gedanke, dass ein Volk über seine Geschicke selbst bestimmen sollte, wird allegorisch verbunden mit der baltischen Mythologie: Saule, Sonne und Sonnengöttin sowie Göttermutter, Pērkons, Donner und Donnergott sowie Göttervater, und Daugava, der Fluss Düna und ebenfalls eine Gottheit, ringen mit „den Kindern Lettlands“ um deren Überleben, Freiheit und das Recht auf ihr eigenes Land, mit dem sie als Nation verbunden sind.
+</p>
+
 <div class="lyrics">
     <div>
 Saule Latvi sēdināja
@@ -83,3 +90,6 @@ Düna, die Schmerzensamme,
 Donner, der Teufelstöter,
 Er ist unser Vater.
     </div>
+</div>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/WeovGfNEEsk?si=pwmxgR2qq9qR2s66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
