@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  Lettische Volkslieder
+title: Lettische Volkslieder
 description: >-
   Eine langsam wachsende Sammlung von Texten lettischer Volkslieder mit deutschen Übersetzungen
-baseurl:  "/tautasdziesmas" # the subpath of your site, e.g. /blog
+baseurl: "/tautasdziesmas" # the subpath of your site, e.g. /blog
 url: "https://lisamichel01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lisamichel01
 
