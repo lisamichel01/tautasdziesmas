@@ -1,0 +1,12 @@
+.lyrics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  white-space: pre-line;
+}
+
+@media (max-width: 600px) {
+  .lyrics {
+    grid-template-columns: 1fr;
+  }
+}
