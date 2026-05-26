@@ -11,7 +11,7 @@ Dieses Lied ist eines von zweien, die man als inoffizielle Hymne Lettlands bezei
 Der Gedanke, dass ein Volk über seine Geschicke selbst bestimmen sollte, wird allegorisch verbunden mit der baltischen Mythologie: Saule, Sonne und Sonnengöttin sowie Göttermutter, Pērkons, Donner und Donnergott sowie Göttervater, und Daugava, der Fluss Düna und ebenfalls eine Gottheit, ringen mit „den Kindern Lettlands“ um deren Überleben, Freiheit und das Recht auf ihr eigenes Land, mit dem sie als Nation verbunden sind.
 </p>
 
-<div class="lyrics">
+<div class="lyrics" markdown="1">
     <div>
 Saule Latvi sēdināja
 Tur, kur gali satiekas.
