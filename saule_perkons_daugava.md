@@ -33,7 +33,7 @@ Baltas jūras maliņā,
 Vēji smiltis putināja 
 Ko lai dzēra latvju bērni?
  
-Saule lika Dieviņami,
+[^1]Saule lika Dieviņami,
 Lai tas raka Daugaviņu.
 Zvēri raka, Dieviņš lēja
 No mākoņa dzīvūdeņi.
@@ -54,7 +54,7 @@ Tas mūsu tēvs.
     <div>
 Sonne setzte Lettland
 Dorthin, wo die Enden sich treffen.
-Weißes Meer, grünes Land,
+Weißes Meer[^2], grünes Land,
 Lettland besaß der Tore Schlüssel.
 
 Lettland besaß der Tore Schlüssel,
@@ -93,3 +93,6 @@ Er ist unser Vater.
 </div>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/WeovGfNEEsk?si=pwmxgR2qq9qR2s66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[^1]: Im verlinkten Video wird diese Strophe nicht gesungen.
+[^2]: die Ostsee
