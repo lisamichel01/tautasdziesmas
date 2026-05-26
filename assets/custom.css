@@ -19,3 +19,8 @@ iframe {
     max-width: 100%;
     margin-top: 3rem;
 }
+
+.reversefootnote {
+  display: inline !important;
+  visibility: visible !important;
+}
