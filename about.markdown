@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dies ist eine Website, auf der lettische Volkslieder u.ä. mit einer deutschen Übersetzung gesammelt werden. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Warum? Weil es das bis dato anscheinend nocht nicht gab!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Die einzelnen Lieder finden sich oben in der Leiste. Bei jedem Eintrag ist ein Video mit einer Darbietung des jeweiligen Liedes eingebettet. Zu einigen Liedern gibt es zudem einen Einführungstext mit zusätzlichen Infos. 

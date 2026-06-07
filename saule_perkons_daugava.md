@@ -33,7 +33,7 @@ Baltas jūras maliņā,
 Vēji smiltis putināja 
 Ko lai dzēra latvju bērni?
  
-<sup><a id="fnref1" href="#fn1">1</a></sup>Saule lika Dieviņami,
+<sup><a id="fnref2" href="#fn2">2</a></sup>Saule lika Dieviņami,
 Lai tas raka Daugaviņu.
 Zvēri raka, Dieviņš lēja
 No mākoņa dzīvūdeņi.
@@ -54,7 +54,7 @@ Tas mūsu tēvs.
     <div>
 Sonne setzte Lettland
 Dorthin, wo die Enden sich treffen.
-Weißes Meer<sup><a id="fnref2" href="#fn2">2</a></sup>, grünes Land,
+Weißes Meer<sup><a id="fnref1" href="#fn1">1</a></sup>, grünes Land,
 Lettland besaß der Tore Schlüssel.
 
 Lettland besaß der Tore Schlüssel,
