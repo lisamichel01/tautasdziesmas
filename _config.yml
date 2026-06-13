@@ -25,6 +25,20 @@ baseurl: "/tautasdziesmas" # the subpath of your site, e.g. /blog
 url: "https://lisamichel01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lisamichel01
 
+#liedliste für drop-down-menü
+lieder:
+  - title: Rīgā iešu es, māmiņa
+    url: /tautasdziesmas/rigaiesuesmamina/
+  - title: Saule, Pērkons, Daugava
+    url: /tautasdziesmas/sauleperkonsdaugava/
+  - title: Tumša nakte, zaļa zāle
+    url: /tautasdziesmas/tumsanaktezalazale/
+
+#welche seiten in der navigationsleiste erscheinen
+header_pages:
+  - about.markdown
+
+
 # Build settings
 theme: minima
 plugins:
