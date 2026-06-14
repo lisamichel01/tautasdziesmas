@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: lied
 title: Rīgā iešu es, māmiņa
 permalink: /rigaiesuesmamina/
----
-
-<div class="lyrics">
-  <div>Rīgā iešu es, māmiņa,	 
+zusatzinfo:
+original: |
+  Rīgā iešu es, māmiņa,	 
   Velē balti villainīt(es).	 
 
   Dieviņš zina, vai atiešu,	 
@@ -27,9 +26,9 @@ permalink: /rigaiesuesmamina/
   Visgarāmi jūras mal(u).  	
 
   Lai nenāca sveša salna  	
-  Šai zemēi ziedu raut(i).</div>
-
-  <div>Nach Riga gehe ich, Mama,  
+  Šai zemēi ziedu raut(i).
+uebersetzung: |
+  Nach Riga gehe ich, Mama,  
   Bleu mir meine Villaines weiß.  
 
   Gott weiß, ob ich zurückkehren werde,  
@@ -41,7 +40,7 @@ permalink: /rigaiesuesmamina/
   Ich zog an einem grünen Zwirn  
   Und hielt die Düna an.  
 
-  Lebt wohl<sup><a id="fnref1" href="#fn1">1</a></sup>  
+  <span class="tooltip">Lebt wohl<span class="tooltiptext">Wörtlich: Mit Gott bleibt zurück</span></span>
   Die ihr am Ufer gestanden.  
 
   Schweres Schiff, tiefes Wasser,  
@@ -51,10 +50,7 @@ permalink: /rigaiesuesmamina/
   Entlang der gesamten Meeresküste,  
 
   Auf dass kein fremder Frost  
-  Dieser Erde Blume pflücke.</div>
-</div>
+  Dieser Erde Blume pflücke.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G5qyODodBUA?si=g4chDzMc0TNBRp2B&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p id="fn1">Wörtlich: Mit Gott bleibt zurück<a href="#fnref1">↩</a></p>
-
+video: "https://www.youtube.com/embed/G5qyODodBUA?si=g4chDzMc0TNBRp2B&amp;start=68"
+---

@@ -5,9 +5,9 @@ body {
   font-size: larger;
 }
 
-p {
+/*p {
   margin-bottom: 2rem;
-}
+}*/
 
 .post-title {
   margin-bottom: 4rem;
@@ -16,6 +16,7 @@ p {
 .lyrics {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  align-items: start; /*damit spalten bündig sind*/
   gap: 2rem;
   white-space: pre-line;
 }
@@ -24,9 +25,42 @@ p {
     text-align: justify;
 }
 
-@media (max-width: 600px) {
+.tabs-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
   .lyrics {
     grid-template-columns: 1fr;
+    display: block;
+  }
+  .dropdown-content {
+    right: 0;
+    left: auto;
+  }
+  .tabs-mobile {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  .tab-btn {
+    flex: 1;
+    padding: 8px;
+    border: 1 px solid #424242;
+    background: none;
+    cursor: pointer;
+    font-family: "Marcellus", serif;
+    font-size: 1rem;
+  }
+  .tab-btn-aktiv {
+    background: #424242;
+    color: white;
+  }
+  /*.lyrics div:last-child {
+    display: none;
+  }*/
+  #liedtext-uebersetzung {
+    display: none;
   }
 }
 
@@ -79,6 +113,7 @@ iframe {
   display: none;
   position: absolute;
   background: white;
+  color: #9E3039 !important;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   z-index: 1;
 }
@@ -87,6 +122,12 @@ iframe {
   display: block;
   padding: 8px 16px;
   white-space: nowrap;
+  right: 0;
+  left: auto; /*menü öffnet sich nach links, nicht nach rechts*/
+}
+
+.dropdown-content a:visited {
+  color:#9E3039 !important;
 }
 
 .dropdown:hover .dropdown-content {
@@ -98,6 +139,7 @@ iframe {
   width: auto;
 }
 
+/*Header and Footer borders*/
 .site-header {
   border-bottom: none;
 }
@@ -124,4 +166,26 @@ iframe {
   background-image: url('/tautasdziesmas/assets/lielvardes-josta-pattern.png');
   background-repeat: repeat-x;
   background-size: auto 20px;
+}
+
+.tooltip {
+  position: relative;
+  border-bottom: 1px dotted black;
+  cursor: help;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  background: #424242;
+  color: white;
+  padding: 8px;
+  position: absolute;
+  z-index: 1;
+  width: 200px;
+  bottom: 125%;
+  left: 0;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
 }

@@ -4,7 +4,7 @@ title: Tumša nakte, zaļa zāle
 permalink: /tumsanaktezalazale/
 zusatzinfo: Von diesem Lied existieren einige Textvarianten, die jedoch nur leicht unterschiedlich sind – meist variiert die Reihenfolge der Strophen. 
 original: |
-  Tumša nakte, zaļa zāle,	 
+  Tumša nakte, zaļa zāle,  
   Laukā laidu kumeliņ(u).	 
 
   Nu, Dieviņi, tava vaļa,  	 
