@@ -29,7 +29,7 @@ const uebersetzung = `{{ page.uebersetzung }}`;
 
 function zeigeTab(tab) {
   if (window.innerWidth > 600) return;
-  document.getElementById('liedtext').innerText = tab === 'original' ? original : uebersetzung;
+  document.getElementById('liedtext').innerHTML = tab === 'original' ? original : uebersetzung;
   document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('aktiv'));
   event.target.classList.add('aktiv');
 }
