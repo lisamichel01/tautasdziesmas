@@ -27,6 +27,8 @@ github_username: lisamichel01
 
 #liedliste für drop-down-menü
 lieder:
+  - title: Pūt, Vējiņi
+    url: /tautasdziesmas/putvejini/
   - title: Rīgā iešu es, māmiņa
     url: /tautasdziesmas/rigaiesuesmamina/
   - title: Saule, Pērkons, Daugava

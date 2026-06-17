@@ -15,7 +15,7 @@ body {
 
 .lyrics {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 0.8fr 1.2fr;
   align-items: start; /*damit spalten bündig sind*/
   gap: 2rem;
   white-space: pre-line;
@@ -126,6 +126,10 @@ iframe {
   left: auto; /*menü öffnet sich nach links, nicht nach rechts*/
 }
 
+.dropdown-content a:link {
+  color: #9E3039 !important;
+}
+
 .dropdown-content a:visited {
   color:#9E3039 !important;
 }
@@ -188,6 +192,12 @@ iframe {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.tooltiptext img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 4px;
 }
 
 /*Kennzeichnung von externen Links*/
