@@ -5,7 +5,7 @@ permalink: /rigaiesuesmamina/
 zusatzinfo:
 original: |
   Rīgā iešu es, māmiņa,	 
-  Velē balti <span class="tooltip">villainīt(es)<span class="tooltiptext"><img src="/tautasdziesmas/assets/villaine_kreslins_kursu_koniņiene_1895.jpg" alt="Jānis Krēsliņš - Kuršu ķoniņiene - 1895 [gemeinfrei]"  style="width:150px">Traditionelles Kleidungsstück, eine Art Tuch, das um die Schultern gelegt wird (Frau in Villaine, Aquarell von Jānis Krēsliņš (1895) [gemeinfrei])</span></span>.	 
+  Velē balti <span class="tooltip">villainīt(es)<span class="tooltiptext"><img src="/tautasdziesmas/assets/villaine_kreslins_kursu_koniņiene_1895.jpg" alt="Jānis Krēsliņš - Kuršu ķoniņiene - 1895 [gemeinfrei]"  style="width:150px">Traditionelles Kleidungsstück, eine Art Tuch, das um die Schultern gelegt wird (<a href="https://upload.wikimedia.org/wikipedia/lv/b/b7/Kr%C4%93sli%C5%86%C5%A1_Kur%C5%A1u_%C4%B7oni%C5%86iene_%281895%29.jpg">Frau in Villaine, Aquarell von Jānis Krēsliņš (1895)</a> [gemeinfrei])</span></span>.	 
 
   Dieviņš zina, vai atiešu,	 
   Strauja teka Daugaviņ(a).	 

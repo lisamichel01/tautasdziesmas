@@ -29,7 +29,7 @@ body {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .lyrics {
     grid-template-columns: 1fr;
     display: block;
@@ -61,6 +61,16 @@ body {
   }*/
   #liedtext-uebersetzung {
     display: none;
+  }
+  .tooltip .tooltiptext {
+    visibility: hidden; /* Zunächst unsichtbar */
+    position: absolute;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1;
+    width: 200px;
   }
 }
 
@@ -185,13 +195,13 @@ iframe {
   padding: 8px;
   position: absolute;
   z-index: 1;
-  width: 200px;
+  width: 300px;
   bottom: 125%;
   left: 0;
 }
 
 .tooltip:hover .tooltiptext {
-  visibility: visible;
+  visibility: hidden;
 }
 
 .tooltiptext img {
