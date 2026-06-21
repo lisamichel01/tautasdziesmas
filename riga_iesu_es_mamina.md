@@ -2,7 +2,8 @@
 layout: lied
 title: Rīgā iešu es, māmiņa
 permalink: /rigaiesuesmamina/
-zusatzinfo:
+zusatzinfo: |  
+  Der Text dieses Liedes basiert auf <a href="https://dainuskapis.lv/daina/31000-0-Dazada-satura-dziesmas-kas-attiecas-uz-upi-ezeru-juru"></a>Daina #31000</a>, die identisch mit der ersten Strophe ist.
 original: |
   Rīgā iešu es, māmiņa,	 
   Velē balti <span class="tooltip">villainīt(es)<span class="tooltiptext"><img src="/tautasdziesmas/assets/villaine_kreslins_kursu_koniņiene_1895.jpg" alt="Jānis Krēsliņš - Kuršu ķoniņiene - 1895 [gemeinfrei]"  style="width:150px">Traditionelles Kleidungsstück, eine Art Tuch, das um die Schultern gelegt wird (<a href="https://upload.wikimedia.org/wikipedia/lv/b/b7/Kr%C4%93sli%C5%86%C5%A1_Kur%C5%A1u_%C4%B7oni%C5%86iene_%281895%29.jpg">Frau in Villaine, Aquarell von Jānis Krēsliņš (1895)</a> [gemeinfrei])</span></span>.	 

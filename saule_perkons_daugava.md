@@ -3,7 +3,7 @@ layout: lied
 title: Saule, Pērkons, Daugava
 permalink: /sauleperkonsdaugava/
 zusatzinfo: |  
-  Dieses Lied ist eines von zweien, die man als inoffizielle Hymne Lettlands bezeichnen könnte. Der Text entstammt einer Ballade von Rainis, dem “lettischen Goethe”. Es wird ein Nationalgedanke transportiert, der im Zusammenhang mit dem Streben nach staatlicher Souveränität zu sehen ist, die 1918 erstmals erlangt wurde. Zu weitreichender Bekanntheit und Beliebtheit gelangte es deshalb während der Singenden Revolution, die das Ende der Sowjetbesatzung im Baltikum einleitete, zu deren Zeit die offizielle Nationalhymne verboten war.  
+  Dieses Lied ist neben <a href="/putvejini">"Pūt, Vējiņi"</a> eines von zweien, die man als inoffizielle Hymne Lettlands bezeichnen könnte. Der Text entstammt einer Ballade von Rainis, dem “lettischen Goethe”. Es wird ein Nationalgedanke transportiert, der im Zusammenhang mit dem Streben nach staatlicher Souveränität zu sehen ist, die 1918 erstmals erlangt wurde. Zu weitreichender Bekanntheit und Beliebtheit gelangte es deshalb während der Singenden Revolution, die das Ende der Sowjetbesatzung im Baltikum einleitete, zu deren Zeit die offizielle Nationalhymne verboten war.  
   Der Gedanke, dass ein Volk über seine Geschicke selbst bestimmen sollte, wird allegorisch verbunden mit der baltischen Mythologie: Saule, Sonne und Sonnengöttin sowie Göttermutter, Pērkons, Donner und Donnergott sowie Göttervater, und Daugava, der Fluss Düna und ebenfalls eine Gottheit, ringen mit „den Kindern Lettlands“ um deren Überleben, Freiheit und das Recht auf ihr eigenes Land, mit dem sie als Nation verbunden sind.
 original: |
   Saule <span class="tooltip">Latvi<span class="tooltiptext">Latve: poetische Bezeichnung für Lettland</span></span> sēdināja  
@@ -81,5 +81,6 @@ uebersetzung: |
   Düna, die Schmerzensamme,  
   Donner, der Teufelstöter,  
   Er ist unser Vater.  
+  
 video: "https://www.youtube.com/embed/WeovGfNEEsk?si=pwmxgR2qq9qR2s66"
 ---

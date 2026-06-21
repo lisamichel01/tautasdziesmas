@@ -31,7 +31,7 @@ uebersetzung: |
   Nebel, Nebel, großer Tau,  
   Ich habe mein Pferd verloren.  
 
-  Es fällt Nebel, es fällt Tau,  
+  <span class="tooltip">Es lichtet sich der Nebel, es legt sich der Tau,<span class="tooltiptext">wörtl.: Es fällt der Nebel, es fällt der Tau</span></span>  
   Ich habe mein Pferd gefunden.  
 
 video: https://www.youtube.com/embed/JE8ViMrPI0M?si=OR7lV8EJt1ejS8s7

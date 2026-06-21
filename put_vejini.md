@@ -3,13 +3,13 @@ layout: lied
 title: Pūt, Vējiņi
 permalink: /putvejini/
 zusatzinfo: |  
-  Dieses Lied ist neben “Saule, Pērkons, Daugava” eines von zweien, die man als inoffizielle Nationalhymne Lettlands bezeichnen könnte – einen Status, den beide zur Zeit der Sowjetbesatzung erlangten, als die Nationalhymne Lettlands verboten war. Heute ist es das wohl bekannteste lettische Volkslied und wird von Chören auf der ganzen Welt gesungen. 
+  Dieses Lied ist neben <a href="/sauleperkonsdaugava">“Saule, Pērkons, Daugava”</a> eines von zweien, die man als inoffizielle Nationalhymne Lettlands bezeichnen könnte – einen Status, den beide zur Zeit der Sowjetbesatzung erlangten, als die Nationalhymne Lettlands verboten war. Heute ist es das wohl bekannteste lettische Volkslied und wird von Chören auf der ganzen Welt gesungen. 
 original: |  
   Pūt, vējiņi, dzen laiviņu,    
   Aizdzen mani Kurzemē.    
 
   Kurzemniece man solīja  	
-  Sav’ meitiņu <span class="tooltip">malējiņ’<span class="tooltiptext">Malēja: Eine, die einen Mahlstein verwendet; gemeint ist, dass sie eine gute Ehefrau abgäbe, da das beschwerliche Getreidemahlen von Hand eine allmorgendliche Aufgabe darstellte.</span></span>.  	
+  Sav’ meitiņu <span class="tooltip">malējiņ’<span class="tooltiptext">Malēja: Eine, die einen Mahlstein verwendet; gemeint ist, dass sie eine gute Ehefrau abgäbe, da das beschwerliche Getreidemahlen von Hand in vorindustrieller Zeit eine allmorgendliche Aufgabe darstellte.</span></span>.  	
 
   Solīt sola, bet nedeva,  	
   Teic man’ lielu dzērājiņ’.  	
@@ -32,7 +32,7 @@ uebersetzung: |
   Die Kurländerin versprach mir  
   Ihre Tochter, die am Mühlstein arbeitet.  
 
-  Sie versprach sie mir, doch gab sie mir nicht,  
+  Das Versprechen gab sie mir, doch nicht sie,  
   Nennt mich einen starken Trinker.  
 
   Sie nennt mich einen starken Trinker,  
