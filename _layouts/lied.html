@@ -14,15 +14,6 @@ layout: page
   <div id="liedtext-uebersetzung">{{ page.uebersetzung }}</div>
 </div>
 
-<!--<script>
-function zeigeTab(tab) {
-  document.getElementById('original').style.display = tab === 'original' ? 'block' : 'none';
-  document.getElementById('uebersetzung').style.display = tab === 'uebersetzung' ? 'block' : 'none';
-  document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('aktiv'));
-  event.target.classList.add('aktiv');
-}
-</script>-->
-
 <!--Tabs zum Sprachenwechseln in mobiler Ansicht-->
 <script>
 const original = `{{ page.original }}`;
@@ -37,6 +28,7 @@ function zeigeTab(tab) {
 </script>
 
 <!--Anzeigen von Tooltips oben oder unten, abhängig davon, wo Platz ist-->
+<!--Anzeigen von Tooltips oben oder unten, abhängig davon, wo Platz ist-->
 <script>
 document.querySelectorAll('.tooltip').forEach(tooltip => {
   // Desktop
@@ -47,32 +39,50 @@ document.querySelectorAll('.tooltip').forEach(tooltip => {
   tooltip.addEventListener('mouseleave', function() {
     verbergeTooltip(this);
   });
-
   // Mobile
   tooltip.addEventListener('touchstart', function(e) {
     e.preventDefault();
+    e.stopPropagation();
     zeigeTooltip(this);
   });
+});
+
+// Tooltip schließen, wenn woanders hingetippt wird
+document.addEventListener('touchstart', function(e) {
+  const istTooltip = e.target.closest('.tooltip');
+  if (!istTooltip) {
+    document.querySelectorAll('.tooltip').forEach(verbergeTooltip);
+  }
 });
 
 function zeigeTooltip(tooltip) {
   const tooltiptext = tooltip.querySelector('.tooltiptext');
   tooltiptext.style.visibility = 'visible';
-  const rect = tooltiptext.getBoundingClientRect();
-  console.log('rect.right:', rect.right, 'window.innerWidth:', window.innerWidth);
-  //oben/unten
-  if (rect.top < 0) {
-    tooltiptext.style.bottom = 'auto';
-    tooltiptext.style.top = '125%';
+  
+  const tooltipRect = tooltip.getBoundingClientRect();
+  const tooltiptextHeight = tooltiptext.offsetHeight;
+  
+  let top;
+  if (tooltipRect.top - tooltiptextHeight - 8 < 0) {
+    top = tooltipRect.bottom + 8;
   } else {
-    tooltiptext.style.bottom = '125%';
-    tooltiptext.style.top = 'auto';
+    top = tooltipRect.top - tooltiptextHeight - 8;
   }
+  
+  if (top + tooltiptextHeight > window.innerHeight) {
+    top = window.innerHeight - tooltiptextHeight - 8;
+  }
+  if (top < 8) {
+    top = 8;
+  }
+  
+  tooltiptext.style.top = top + 'px';
 }
 
 function verbergeTooltip(tooltip) {
   tooltip.querySelector('.tooltiptext').style.visibility = 'hidden';
-}</script>
+}
+</script>
 
 
 <iframe width="100%" height="500" src="{{ page.video }}" allowfullscreen></iframe>

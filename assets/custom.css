@@ -29,51 +29,6 @@ body {
   display: none;
 }
 
-@media (max-width: 600px) {
-  .lyrics {
-    grid-template-columns: 1fr;
-    display: block;
-  }
-  .dropdown-content {
-    right: 0;
-    left: auto;
-  }
-  .tabs-mobile {
-    display: flex;
-    gap: 1rem;
-    margin-bottom: 1rem;
-  }
-  .tab-btn {
-    flex: 1;
-    padding: 8px;
-    border: 1 px solid #424242;
-    background: none;
-    cursor: pointer;
-    font-family: "Marcellus", serif;
-    font-size: 1rem;
-  }
-  .tab-btn-aktiv {
-    background: #424242;
-    color: white;
-  }
-  /*.lyrics div:last-child {
-    display: none;
-  }*/
-  #liedtext-uebersetzung {
-    display: none;
-  }
-  .tooltip .tooltiptext {
-    visibility: hidden; /* Zunächst unsichtbar */
-    position: absolute;
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    border-radius: 5px;
-    z-index: 1;
-    width: 200px;
-  }
-}
-
 iframe {
     max-width: 100%;
     margin-top: 3rem;
@@ -213,4 +168,52 @@ iframe {
 /*Kennzeichnung von externen Links*/
 a[href^="http"]::after {
   content: " ↗";
+}
+
+@media (max-width: 600px) {
+  .lyrics {
+    grid-template-columns: 1fr;
+    display: block;
+  }
+  .dropdown-content {
+    right: 0;
+    left: auto;
+  }
+  .tabs-mobile {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  .tab-btn {
+    flex: 1;
+    padding: 8px;
+    border: 1 px solid #424242;
+    background: none;
+    cursor: pointer;
+    font-family: "Marcellus", serif;
+    font-size: 1rem;
+  }
+  .tab-btn-aktiv {
+    background: #424242;
+    color: white;
+  }
+  /*.lyrics div:last-child {
+    display: none;
+  }*/
+  #liedtext-uebersetzung {
+    display: none;
+  }
+  .tooltip .tooltiptext {
+    position: fixed;
+    left: 5%;
+    right: 5%;
+    width: auto;
+    bottom: auto;
+    max-width: 90vw;
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+  .tooltiptext img{
+    max-width: 150px;
+  }
 }
