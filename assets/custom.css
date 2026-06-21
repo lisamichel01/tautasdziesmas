@@ -185,8 +185,12 @@ a[href^="http"]::after {
   }
   .tabs-mobile {
     display: flex;
+    position: sticky;
+    top: 0;
+    background: white;
     gap: 1rem;
     margin-bottom: 1rem;
+    z-index: 2;
   }
   .tab-btn {
     flex: 1;
