@@ -27,6 +27,8 @@ github_username: lisamichel01
 
 #liedliste für drop-down-menü
 lieder:
+  - title: Bēdu Manu, Lielu Bēdu
+    url: /tautasdziesmas/bedumanulielubedu/ 
   - title: Pūt, Vējiņi
     url: /tautasdziesmas/putvejini/
   - title: Rīgā iešu es, māmiņa

@@ -9,13 +9,17 @@ body {
   margin-bottom: 2rem;
 }*/
 
+.wrapper {
+  max-width: 900px;
+}
+
 .post-title {
   margin-bottom: 4rem;
 }
 
 .lyrics {
   display: grid;
-  grid-template-columns: 0.8fr 1.2fr;
+  grid-template-columns: 0.9fr 1.1fr;
   align-items: start; /*damit spalten bündig sind*/
   gap: 2rem;
   white-space: pre-line;

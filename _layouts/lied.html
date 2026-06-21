@@ -24,11 +24,11 @@ function zeigeTab(tab) {
   document.getElementById('liedtext').innerHTML = tab === 'original' ? original : uebersetzung;
   document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('aktiv'));
   event.target.classList.add('aktiv');
+  tooltipsAktivieren();
 }
 </script>
 
-<!--Anzeigen von Tooltips oben oder unten, abhängig davon, wo Platz ist-->
-<!--Anzeigen von Tooltips oben oder unten, abhängig davon, wo Platz ist-->
+
 <script>
 document.querySelectorAll('.tooltip').forEach(tooltip => {
   // Desktop
@@ -56,9 +56,14 @@ document.addEventListener('touchstart', function(e) {
 });
 
 function zeigeTooltip(tooltip) {
+  console.log('Tooltip-Skript wurde geladen, Anzahl Tooltips:', document.querySelectorAll('.tooltip').length);
   const tooltiptext = tooltip.querySelector('.tooltiptext');
   tooltiptext.style.visibility = 'visible';
   
+  if (window.innerWidth > 600) {
+    return;
+  }
+
   const tooltipRect = tooltip.getBoundingClientRect();
   const tooltiptextHeight = tooltiptext.offsetHeight;
   
@@ -84,5 +89,24 @@ function verbergeTooltip(tooltip) {
 }
 </script>
 
+<script>
+function tooltipsAktivieren() {
+  document.querySelectorAll('.tooltip').forEach(tooltip => {
+    tooltip.addEventListener('mouseenter', function() {
+      zeigeTooltip(this);
+    });
+    tooltip.addEventListener('mouseleave', function() {
+      verbergeTooltip(this);
+    });
+    tooltip.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      zeigeTooltip(this);
+    });
+  });
+}
+
+tooltipsAktivieren();
+</script>
 
 <iframe width="100%" height="500" src="{{ page.video }}" allowfullscreen></iframe>
