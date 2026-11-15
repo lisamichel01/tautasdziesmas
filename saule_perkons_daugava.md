@@ -39,7 +39,7 @@ original: |
   Nāves ūdens, dzīves ūdens —  
   Abus jūtam dvēselē.  
  
-  Saule  – mūsu māte,  
+  Saule — mūsu māte,  
   Daugav' — sāpju aukle,  
   Pērkons — velnu spērējs,  
   Tas mūsu tēvs.  

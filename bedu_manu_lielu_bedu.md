@@ -29,7 +29,7 @@ original: |
   Tad ir jautri padzīvoj'.
   
 uebersetzung: |  
-  Meinen Kummer, mein großen Kummer,  
+  Meinen Kummer, meinen großen Kummer,  
   Ich kümmere mich nicht um diesen Kummer.  
 
   Refrain: Ramtai ramtai radiridirīdi,  
@@ -44,14 +44,14 @@ uebersetzung: |
   Mit einem Lied ging ich aufs Feld,  
   Mit <span class="tooltip">Geplauder<span class="tooltiptext">wörtl.: Sprache</span></span> auf den Hof.  
 
-  Je (mehr) ich den Kummer bekümmerte,  
+  Je (mehr) ich mich dem Kummer hingab,  
   Desto (mehr) freute sich das Unglück.  
 
   Lieber ging ich singend,  
   Damit das Unglück traurig sei.  
 
   Wenn ich lebe, dann lebe ich,  
-  Dann lebe ich <span class="tooltip">auch richtig<span class="tooltiptext">"padzīvot" ist eine perfektive Verbform, die hier nicht nur Abgeschlossenheit bzw. Begrenztheit, sondern auch eine intensivierende Bedeutungsnuance zum Ausdruck bringt, also: das Leben voll auskosten.</span></span> heiter.
+  Dann lebe ich <span class="tooltip">so richtig<span class="tooltiptext">"padzīvot" ist eine perfektive Verbform, die hier nicht nur Abgeschlossenheit bzw. Begrenztheit, sondern auch eine intensivierende Bedeutungsnuance zum Ausdruck bringt, also: das Leben voll auskosten.</span></span> heiter.
 
 video: "https://www.youtube.com/embed/QIBwSHJP7sc?si=FQN9PnwJfa3404u_"
 ---

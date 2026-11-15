@@ -41,7 +41,7 @@ uebersetzung: |
   Ich zog an einem grünen Zwirn  
   Und hielt die Düna an.  
 
-  <span class="tooltip">Lebt wohl<span class="tooltiptext">Wörtlich: Mit Gott bleibt zurück</span></span>
+  <span class="tooltip">Lebt wohl<span class="tooltiptext">Wörtlich: Mit Gott bleibt zurück</span></span>,
   Die ihr am Ufer gestanden.  
 
   Schweres Schiff, tiefes Wasser,  

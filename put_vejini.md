@@ -41,7 +41,7 @@ uebersetzung: |
   Welches Wirtshaus habe ich leergetrunken,  
   Wessen Pferd zu Schanden geritten?  
 
-  Für mein eigenes Geld habe ich getrunken,  
+  Von meinem eigenen Geld habe ich getrunken,  
   Mein eigenes Pferd gehetzt.  
 
   Meine Braut habe ich selbst genommen,  
