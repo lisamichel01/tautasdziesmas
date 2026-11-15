@@ -97,6 +97,7 @@ iframe {
 
 .dropdown-content a:link {
   color: #9E3039 !important;
+  z-index: 10;
 }
 
 .dropdown-content a:visited {
@@ -115,6 +116,8 @@ iframe {
 /*Header and Footer borders*/
 .site-header {
   border-bottom: none;
+  position: relative;
+  z-index: 10;
 }
 
 .site-header::after {
