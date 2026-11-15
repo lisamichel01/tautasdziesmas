@@ -56,24 +56,25 @@ document.addEventListener('touchstart', function(e) {
 });
 
 function zeigeTooltip(tooltip) {
-  console.log('Tooltip-Skript wurde geladen, Anzahl Tooltips:', document.querySelectorAll('.tooltip').length);
   const tooltiptext = tooltip.querySelector('.tooltiptext');
   tooltiptext.style.visibility = 'visible';
-  
+
+  const tooltipRect = tooltip.getBoundingClientRect();
+  const tooltiptextHeight = tooltiptext.offsetHeight;
+
   if (window.innerWidth > 600) {
-    if (tooltipRect.top - tooltiptextHeight - 8 < 0) {
+    // Desktop: erst oben platzieren, dann die tatsächliche Position messen
+    tooltiptext.style.bottom = '125%';
+    tooltiptext.style.top = 'auto';
+    if (tooltiptext.getBoundingClientRect().top < Math.max(0, document.querySelector('.site-header').getBoundingClientRect().bottom)) {
+      // Kein Platz oben -> unten anzeigen
       tooltiptext.style.bottom = 'auto';
       tooltiptext.style.top = '125%';
-    } else {
-      tooltiptext.style.bottom = '125%';
-      tooltiptext.style.top = 'auto';
     }
     return;
   }
 
-  const tooltipRect = tooltip.getBoundingClientRect();
-  const tooltiptextHeight = tooltiptext.offsetHeight;
-  
+  // Mobile
   let top;
   if (tooltipRect.top - tooltiptextHeight - 8 < 0) {
     top = tooltipRect.bottom + 8;
