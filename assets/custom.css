@@ -223,6 +223,7 @@ a[href^="http"]::after {
     max-width: 90vw;
     max-height: 70vh;
     overflow-y: auto;
+    z-index: 5;
   }
   .tooltiptext img{
     max-width: 150px;
