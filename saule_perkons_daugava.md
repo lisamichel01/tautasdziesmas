@@ -46,15 +46,15 @@ original: |
 uebersetzung: |
   Sonne setzte Lettland  
   Dorthin, wo die Enden sich treffen.  
-  Weißes Meer, grünes Land,  
+  <span class="tooltip">Weißes Meer<span class="tooltiptext">gemeint ist die Ostsee</span></span>, grünes Land,  
   Lettland besaß der Tore Schlüssel.  
 
   Lettland besaß der Tore Schlüssel,  
-  Schützer der Düna.  
+  Der Schützer der Düna.  
   Fremde Völker zerbrachen die Tore,  
   Ins Meer fiel der Schlüssel.  
 
-  Mit blauem Blitz schlug Donner zu,  
+  Mit blauem Blitz schlug Donner ein,  
   Entriss den Teufeln den Schlüssel.  
   Den Tod, das Leben schloss Lettland ein,  
   Weißes Meer, grünes Land.  
@@ -79,7 +79,7 @@ uebersetzung: |
 
   Sonne, unsere Mutter,  
   Düna, die Schmerzensamme,  
-  Donner, der Teufelstöter,  
+  Donner, der <span class="tooltip">Bezwinger<span class="tooltiptext">wörtl.: jemand, der schlägt oder tritt</span></span> der Teufel,  
   Er ist unser Vater.  
   
 video: "https://www.youtube.com/embed/WeovGfNEEsk?si=pwmxgR2qq9qR2s66"

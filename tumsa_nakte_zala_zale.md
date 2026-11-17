@@ -22,10 +22,10 @@ uebersetzung: |
   Dunkle Nacht, grünes Gras,  
   Aufs Feld brachte ich mein Pferd.  
 
-  Nun, Gott, dein Wille,  
-  Nun in deiner Hand.  
+  Nun, Gott, [es sei] dein Wille,  
+  Nun [liegt es] in deiner Hand.  
 
-  Nun in deiner Hand  
+  Nun [liegt] in deiner Hand  
   Mein gutes Pferd.  
 
   Nebel, Nebel, großer Tau,  

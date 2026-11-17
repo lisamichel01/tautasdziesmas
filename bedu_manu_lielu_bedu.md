@@ -1,6 +1,6 @@
 ---
 layout: lied
-title: Bēdu Manu, Lielu Bēdu
+title: Bēdu manu, lielu bēdu
 permalink: /bedumanulielubedu/
 zusatzinfo:
 original: |  
@@ -29,13 +29,13 @@ original: |
   Tad ir jautri padzīvoj'.
   
 uebersetzung: |  
-  Meinen Kummer, meinen großen Kummer,  
-  Ich kümmere mich nicht um diesen Kummer.  
+  Mein Kummer, großer Kummer,  
+  Dieser Kummer kümmert mich nicht.  
 
   Refrain: Ramtai ramtai radiridirīdi,  
   Ramtai rīdi rallallā.  
 
-  Ich legte meinen Kummer unter einen Stein  
+  Ich legte den Kummer unter einen Stein  
   Und ging singend an ihm vorbei.  
 
   Traurig ging ich  
@@ -44,11 +44,11 @@ uebersetzung: |
   Mit einem Lied ging ich aufs Feld,  
   Mit <span class="tooltip">Geplauder<span class="tooltiptext">wörtl.: Sprache</span></span> auf den Hof.  
 
-  Je (mehr) ich mich dem Kummer hingab,  
-  Desto (mehr) freute sich das Unglück.  
+  Je mehr ich mich dem Kummer hingab,  
+  Desto mehr freute sich das Unglück.  
 
   Lieber ging ich singend,  
-  Damit das Unglück traurig sei.  
+  Auf dass das Unglück traurig sei.  
 
   Wenn ich lebe, dann lebe ich,  
   Dann lebe ich <span class="tooltip">so richtig<span class="tooltiptext">"padzīvot" ist eine perfektive Verbform, die hier nicht nur Abgeschlossenheit bzw. Begrenztheit, sondern auch eine intensivierende Bedeutungsnuance zum Ausdruck bringt, also: das Leben voll auskosten.</span></span> heiter.
