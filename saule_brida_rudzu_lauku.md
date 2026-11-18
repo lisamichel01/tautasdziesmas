@@ -63,5 +63,5 @@ uebersetzung: |
   Das Silber zum Glühen bringend,
   Die goldenen Strahlen zum Glänzen.
 
-video: https://youtu.be/uwVQJGZ-Na8?si=bByn4v3DKYvE5Gyg&t=28
+video: "https://youtu.be/uwVQJGZ-Na8?si=bByn4v3DKYvE5Gyg&t=28"
 ---

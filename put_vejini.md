@@ -3,7 +3,7 @@ layout: lied
 title: Pūt, vējiņi
 permalink: /putvejini/
 zusatzinfo: |  
-  Dieses Lied ist neben <a href="/tautasdziesmas/sauleperkonsdaugava">“Saule, Pērkons, Daugava”</a> eines von zweien, die man als inoffizielle Nationalhymne Lettlands bezeichnen könnte – einen Status, den beide zur Zeit der sowjetischen Besatzung erlangten, als die Nationalhymne Lettlands verboten war. Heute ist es das wohl bekannteste lettische Volkslied und wird von Chören auf der ganzen Welt gesungen. 
+  Dieses Lied ist neben <a href="/tautasdziesmas/sauleperkonsdaugava">“Saule, Pērkons, Daugava”</a> eines von zweien, die man als inoffizielle Nationalhymne Lettlands bezeichnen könnte – einen Status, den beide zur Zeit der sowjetischen Besatzung erlangten, als die Nationalhymne Lettlands verboten war. Urspünglich ein livisches Hochzeitslied und daher auch in Estland sehr beliebt, ist es heute das wohl bekannteste lettische Volkslied und wird von Chören auf der ganzen Welt gesungen. 
 original: |  
   Pūt, vējiņi, dzen laiviņu,    
   Aizdzen mani Kurzemē.    
