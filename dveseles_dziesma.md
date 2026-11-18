@@ -12,7 +12,7 @@ original: |
 
   Dzied, mana dvēsele dzied caur tūkstoš balsīm klusi.  
   Dievs manā dvēselē dzied, kas zvaigznēm piebirusi.  
-  Raud, mana dvēsele raud par <span class="tooltip">Staburaga<span class="tooltiptext"><img src="/tautasdziesmas/assets/Stafenhagens_Staburags.jpg" alt="Wilhelm Siegfried Stavenhagen - Staburags - 1866 [gemeinfrei]" style="width:150px" (<a href="https://commons.wikimedia.org/wiki/File:Stefenhagens_Staburags.jpg">Wilhelm Siegfried Stavenhagen (1814—1881)</a>, Public domain, via Wikimedia Commons)>Eine ungewöhnliche Felsformation aus Kalktuff am Ufer der Daugava, um die sich die Legende rankt, dass es sich dabei um das versteinerte weinende Mädchen Staburadze handele. 1965 wurde er von der sowjetischen Regierung beim Bau eines Wasserkraftwerks zerstört.</span></span> mēmām sāpēm.  
+  Raud, mana dvēsele raud par <span class="tooltip">Staburaga<span class="tooltiptext"><img src="/tautasdziesmas/assets/Stefenhagens_Staburags.jpg" alt="Wilhelm Siegfried Stavenhagen - Staburags - 1866 [gemeinfrei]" style="width:150px" (<a href="https://commons.wikimedia.org/wiki/File:Stefenhagens_Staburags.jpg">Wilhelm Siegfried Stavenhagen (1814—1881) Public domain, via Wikimedia Commons)</a>Eine ungewöhnliche Felsformation aus Kalktuff am Ufer der Daugava, um die sich die Legende rankt, dass es sich dabei um das versteinerte weinende Mädchen Staburadze handele. 1965 wurde sie von der sowjetischen Regierung beim Bau eines Wasserkraftwerks zerstört.</span></span> mēmām sāpēm.  
   Raud, mana dvēsele raud, tā raud Vidzemē.  
 
   Dzied, mana dvēsele dzied caur tūkstoš balsīm klusi.  
@@ -27,7 +27,7 @@ original: |
 
   Dzied, mana dvēsele dzied caur tūkstoš balsīm klusi.  
   Dievs manā dvēselē dzied, kas zvaigznēm piebirusi.  
-  Deg, mana dvēsele deg kā <span class="tooltip">piena krūze māla ceplī<span class="tooltiptext">Die lettgallische Kultur ist insbesondere durch ihre Keramik bekannt, vor allem die matt glänzenden schwarzen Stücke, deren Farbe durch Reduktion in sauerstooffarmer Umgebung entsteht.Mehr Infos <a href="https://kulturaskanons.lv/de/archive/latgales-podnieciba/">hier</a>, ein Blick auf einen Ofen und die schwarze Keramik <a href="https://www.youtube.com/watch?v=Iw2J5QeD1aM">hier</a>.</span></span>.  
+  Deg, mana dvēsele deg kā <span class="tooltip">piena krūze māla ceplī<span class="tooltiptext">Die lettgallische Kultur ist insbesondere durch ihre Keramik bekannt, vor allem die matt glänzenden schwarzen Stücke, deren Farbe durch Reduktion in sauerstoffarmer Umgebung entsteht.Mehr Infos <a href="https://kulturaskanons.lv/de/archive/latgales-podnieciba/">hier</a>, ein Blick auf einen Ofen und die schwarze Keramik <a href="https://www.youtube.com/watch?v=Iw2J5QeD1aM">hier</a>.</span></span>.  
   Deg, mana dvēsele deg, tā deg Latgalē.  
 
   Mirdz mana dziesma,  
@@ -61,5 +61,5 @@ uebersetzung: |
   Sie brennt, meine Seele brennt wie ein Milchkrug im Tonbrennofen.  
   Sie brennt, meine Seele brennt, so brennt sie in Lettgallen.
 
-video: "https://youtu.be/FF5TlvbTOWY?si=qHoAIaVROIQruHlm"
+video: "https://www.youtube.com/embed/FF5TlvbTOWY?si=QQZ798W72ARsLd8T"
 ---
