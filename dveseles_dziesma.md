@@ -79,9 +79,9 @@ uebersetzung: |
   Sie blüht, meine Seele blüht,  
   So blüht sie in Semgallen.  
 
-  Es leuchte mein Lied,  
-  Es bete mein Lied,  
-  Es liebe mein Lied  
+  Es leuchtet mein Lied,  
+  Es betet mein Lied,  
+  Es liebt mein Lied  
   In Lettland!  
 
   Sie singt, meine Seele singt  
@@ -93,9 +93,9 @@ uebersetzung: |
   Sie brennt, meine Seele brennt,  
   So brennt sie in Lettgallen.  
 
-  Es leuchte mein Lied,  
-  Es bete mein Lied,  
-  Es liebe mein Lied  
+  Es leuchtet mein Lied,  
+  Es betet mein Lied,  
+  Es liebt mein Lied  
   In Lettland!
 
 video: "https://www.youtube.com/embed/FF5TlvbTOWY?si=QQZ798W72ARsLd8T"
