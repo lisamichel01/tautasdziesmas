@@ -14,7 +14,7 @@ original: |
   Solīt sola, bet nedeva,  	
   Teic man’ lielu dzērājiņ’.  	
 
-  <span class="tooltip"></span>Teic man’ lielu dzērājiņu,  	
+  <span class="tooltip">Teic man’ lielu dzērājiņu,  	
   Kumeliņa skrējējiņ’.<span class="tooltiptext">Diese Strophe wird im unten verlinkten Video, bzw. generell im Arrangement von Imants Ramiņš, nicht gesungen.</span></span>  	
 
   Kuru krogu es izdzēru,  	
